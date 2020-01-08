@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, I'm Dimitri and this my official english tech blog.
 
-### More Information
+### Education
 
-A place to include any other types of information that you'd like to include about yourself.
+* 2020: Master of Science - MS, Computer Science
+* 2020: Master of Engineering - MEng, Computer Science
+* 2015: Bachelor of Engineering - BEng, Computer Science
 
 ### Contact me
 
