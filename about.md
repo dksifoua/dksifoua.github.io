@@ -14,4 +14,4 @@ Hello, I'm Dimitri and this my official english tech blog.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dimitri.sifoua@gmail.com](mailto:dimitri.sifoua@gmail.com)
